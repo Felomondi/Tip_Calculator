@@ -36,7 +36,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-![]()
+![](https://github.com/Felomondi/Tip_Calculator/blob/main/Tip_Calculator.gif)
 
 GIF created with **Kap**
 
