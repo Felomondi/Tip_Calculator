@@ -1,5 +1,5 @@
 # Tip_Calculator
- Easy way to calvulate your tips with every purchase!
+ Easy way to calculate your tips with every purchase/transaction/service!
 
  # AND101 Project 4 - CodeMath
 
